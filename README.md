@@ -1,4 +1,4 @@
-# Stock Price Predictor Web App
+# Stock Price Prediction
 
 [![Language](https://img.shields.io/badge/HTML-black.svg?style=flat&logo=html5&logoColor=white)](https://www.html.com)
 [![Language](https://img.shields.io/badge/CSS-red.svg?style=flat&logo=css3&logoColor=white)](https://www.css.org)
